@@ -3,7 +3,7 @@
 <h1 align="center">Melvin at Simplon.co</h1>
 
 <p align="center">
-  <i>Cloud &amp; DevSecOps training portfolio</i>
+  <i>Cloud &amp; DevSecOps training at <a href="https://www.simplon.co/">Simplon.co</a></i>
 </p>
 
 <br/>
@@ -23,27 +23,9 @@
 <br/>
 <br/>
 
-Cloud and DevSecOps training at **Simplon Toulouse**, specialising in Azure. This
-organization gathers every project built along the way: four capstone projects and
+Trained in Toulouse, specialising in Azure. This organization gathers every project built along the way: four capstone projects and
 twenty-five hands-on labs, grouped below by the skill they demonstrate rather than
 by the tool they happen to use.
-
-<br/>
-
-Every repository also carries technology topics, so you can slice the same work the
-other way:
-
-<p align="center">
-  <a href="https://github.com/orgs/Melvin-Simplon/repositories?q=topic%3Aazure"><img src="https://img.shields.io/badge/azure-FF6200?style=flat-square&logo=microsoftazure&logoColor=white" alt="azure" /></a>
-  &nbsp;
-  <a href="https://github.com/orgs/Melvin-Simplon/repositories?q=topic%3Aterraform"><img src="https://img.shields.io/badge/terraform-FF6200?style=flat-square&logo=terraform&logoColor=white" alt="terraform" /></a>
-  &nbsp;
-  <a href="https://github.com/orgs/Melvin-Simplon/repositories?q=topic%3Akubernetes"><img src="https://img.shields.io/badge/kubernetes-FF6200?style=flat-square&logo=kubernetes&logoColor=white" alt="kubernetes" /></a>
-  &nbsp;
-  <a href="https://github.com/orgs/Melvin-Simplon/repositories?q=topic%3Adocker"><img src="https://img.shields.io/badge/docker-FF6200?style=flat-square&logo=docker&logoColor=white" alt="docker" /></a>
-  &nbsp;
-  <a href="https://github.com/orgs/Melvin-Simplon/repositories?q=topic%3Agitlab-ci"><img src="https://img.shields.io/badge/gitlab--ci-FF6200?style=flat-square&logo=gitlab&logoColor=white" alt="gitlab-ci" /></a>
-</p>
 
 <br/>
 
