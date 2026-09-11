@@ -1,4 +1,12 @@
+<br/>
+
 <h1 align="center">Melvin at Simplon.co</h1>
+
+<p align="center">
+  <i>Cloud &amp; DevSecOps training portfolio</i>
+</p>
+
+<br/>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -6,14 +14,13 @@
   </a>
 </p>
 
+<br/>
+
 <p align="center">
   <a href="https://github.com/WhiteMuush"><img src="https://img.shields.io/badge/Personal_account-FF6200?style=for-the-badge&logo=github&logoColor=white" alt="Personal account" /></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/melvin-petit/"><img src="https://img.shields.io/badge/LinkedIn-FF6200?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  &nbsp;
-  <a href="https://melvinpetit.com/"><img src="https://img.shields.io/badge/Portfolio-FF6200?style=for-the-badge&logo=icloud&logoColor=white" alt="Portfolio" /></a>
 </p>
 
+<br/>
 <br/>
 
 Cloud and DevSecOps training at **Simplon Toulouse**, specialising in Azure. This
@@ -21,13 +28,26 @@ organization gathers every project built along the way: four capstone projects a
 twenty-five hands-on labs, grouped below by the skill they demonstrate rather than
 by the tool they happen to use.
 
+<br/>
+
 Every repository also carries technology topics, so you can slice the same work the
 other way:
-[terraform](https://github.com/orgs/Melvin-Simplon/repositories?q=topic%3Aterraform) ·
-[kubernetes](https://github.com/orgs/Melvin-Simplon/repositories?q=topic%3Akubernetes) ·
-[azure](https://github.com/orgs/Melvin-Simplon/repositories?q=topic%3Aazure) ·
-[docker](https://github.com/orgs/Melvin-Simplon/repositories?q=topic%3Adocker) ·
-[gitlab-ci](https://github.com/orgs/Melvin-Simplon/repositories?q=topic%3Agitlab-ci)
+
+<p align="center">
+  <a href="https://github.com/orgs/Melvin-Simplon/repositories?q=topic%3Aazure"><img src="https://img.shields.io/badge/azure-FF6200?style=flat-square&logo=microsoftazure&logoColor=white" alt="azure" /></a>
+  &nbsp;
+  <a href="https://github.com/orgs/Melvin-Simplon/repositories?q=topic%3Aterraform"><img src="https://img.shields.io/badge/terraform-FF6200?style=flat-square&logo=terraform&logoColor=white" alt="terraform" /></a>
+  &nbsp;
+  <a href="https://github.com/orgs/Melvin-Simplon/repositories?q=topic%3Akubernetes"><img src="https://img.shields.io/badge/kubernetes-FF6200?style=flat-square&logo=kubernetes&logoColor=white" alt="kubernetes" /></a>
+  &nbsp;
+  <a href="https://github.com/orgs/Melvin-Simplon/repositories?q=topic%3Adocker"><img src="https://img.shields.io/badge/docker-FF6200?style=flat-square&logo=docker&logoColor=white" alt="docker" /></a>
+  &nbsp;
+  <a href="https://github.com/orgs/Melvin-Simplon/repositories?q=topic%3Agitlab-ci"><img src="https://img.shields.io/badge/gitlab--ci-FF6200?style=flat-square&logo=gitlab&logoColor=white" alt="gitlab-ci" /></a>
+</p>
+
+<br/>
+
+---
 
 <br/>
 
@@ -41,6 +61,12 @@ End-to-end work, specified and delivered alone, closing each phase of the progra
 | [capstone-quiz-frontend](https://github.com/Melvin-Simplon/capstone-quiz-frontend) | <img src="https://skillicons.dev/icons?i=azure,angular,typescript" height="22" /> | Angular 22 app for revising Azure certifications, by module or mock exam, on Static Web Apps. |
 | [capstone-quiz-backend](https://github.com/Melvin-Simplon/capstone-quiz-backend) | <img src="https://skillicons.dev/icons?i=azure,java,spring,postgresql,redis" height="22" /> | Spring Boot 3.5 REST API on Java 21, with a Redis cache and result export to Blob Storage. |
 | [capstone-quiz-infrastructure](https://github.com/Melvin-Simplon/capstone-quiz-infrastructure) | <img src="https://skillicons.dev/icons?i=azure,terraform" height="22" /> | Private network, PostgreSQL, Redis, Key Vault and App Service, applied by pipeline through OIDC. |
+
+<br/>
+
+---
+
+<br/>
 
 ## Infrastructure as Code
 
@@ -57,6 +83,12 @@ Describing infrastructure in version-controlled code rather than clicking throug
 | [terraform-gitlab-managed-state](https://github.com/Melvin-Simplon/terraform-gitlab-managed-state) | <img src="https://skillicons.dev/icons?i=azure,terraform,gitlab" height="22" /> | Importing an existing resource into state, migrating the backend, and proving that locking works. |
 | [openstack-devstack-on-azure](https://github.com/Melvin-Simplon/openstack-devstack-on-azure) | <img src="https://skillicons.dev/icons?i=azure,openstack,terraform,ansible" height="22" /> | A self-hosted cloud: Terraform builds the host, Ansible installs DevStack, one command demos it end to end. |
 
+<br/>
+
+---
+
+<br/>
+
 ## CI/CD and automated delivery
 
 Getting code from a commit to a running environment without a human holding a secret.
@@ -70,6 +102,12 @@ Getting code from a commit to a running environment without a human holding a se
 | [aks-helm-gitlab-cd](https://github.com/Melvin-Simplon/aks-helm-gitlab-cd) | <img src="https://skillicons.dev/icons?i=azure,kubernetes,gitlab" height="22" /> <img src="https://cdn.simpleicons.org/helm/0F1689" height="22" /> | The deployment half: a Helm chart shipped to AKS by pipeline, load balancer restricted to a single CIDR. |
 | [azure-logging-api-gitlab-ci](https://github.com/Melvin-Simplon/azure-logging-api-gitlab-ci) | <img src="https://skillicons.dev/icons?i=azure,terraform,docker,gitlab" height="22" /> | A containerised logging API delivered fully as code, infrastructure and application in the same pipeline. |
 
+<br/>
+
+---
+
+<br/>
+
 ## Containers and orchestration
 
 Packaging an application, then running it across a cluster.
@@ -82,6 +120,12 @@ Packaging an application, then running it across a cluster.
 | [k8s-go-microservices](https://github.com/Melvin-Simplon/k8s-go-microservices) | <img src="https://skillicons.dev/icons?i=kubernetes,golang" height="22" /> | Gateway, books and movies services from a single image, only the gateway exposed. |
 | [aks-mongodb-azure-files](https://github.com/Melvin-Simplon/aks-mongodb-azure-files) | <img src="https://skillicons.dev/icons?i=azure,kubernetes,mongodb" height="22" /> | Stateful workloads on AKS, backed by Azure Files NFS persistent storage. |
 
+<br/>
+
+---
+
+<br/>
+
 ## Reliability and disaster recovery
 
 Surviving a node loss, a zone loss, or a bad afternoon.
@@ -92,6 +136,12 @@ Surviving a node loss, a zone loss, or a bad afternoon.
 | [k8s-resource-limits-quotas](https://github.com/Melvin-Simplon/k8s-resource-limits-quotas) | <img src="https://skillicons.dev/icons?i=kubernetes,golang" height="22" /> | Per-container requests and limits, plus a LimitRange and a ResourceQuota to cap namespace consumption. |
 | [k8s-velero-minio-backup](https://github.com/Melvin-Simplon/k8s-velero-minio-backup) | <img src="https://skillicons.dev/icons?i=kubernetes" height="22" /> <img src="https://cdn.simpleicons.org/minio/C72E49" height="22" /> | Backup and restore with Velero, storing the backups in MinIO deployed inside the cluster. |
 | [aks-velero-azure-backup](https://github.com/Melvin-Simplon/aks-velero-azure-backup) | <img src="https://skillicons.dev/icons?i=azure,terraform,kubernetes" height="22" /> | The same discipline on managed AKS: backups in Blob Storage, Velero authenticated through Workload Identity. |
+
+<br/>
+
+---
+
+<br/>
 
 ## Observability
 
