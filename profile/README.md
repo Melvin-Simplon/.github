@@ -24,7 +24,7 @@
 <br/>
 
 Trained in Toulouse, specialising in Azure. This organization gathers every project built along the way: four capstone projects and
-twenty-five hands-on labs, grouped below by the skill they demonstrate rather than
+twenty-six hands-on labs, grouped below by the skill they demonstrate rather than
 by the tool they happen to use.
 
 <br/>
@@ -128,3 +128,4 @@ Packaging an application, then running it across a cluster.
 | [k8s-kind-getting-started](https://github.com/Melvin-Simplon/k8s-kind-getting-started) | <img src="https://skillicons.dev/icons?i=kubernetes,nginx" height="22" /> | A first local cluster: three nginx replicas exposed to the host through a Service. |
 | [k8s-go-microservices](https://github.com/Melvin-Simplon/k8s-go-microservices) | <img src="https://skillicons.dev/icons?i=kubernetes,golang" height="22" /> | Gateway, books and movies services from a single image, only the gateway exposed. |
 | [aks-mongodb-azure-files](https://github.com/Melvin-Simplon/aks-mongodb-azure-files) | <img src="https://skillicons.dev/icons?i=azure,kubernetes,mongodb" height="22" /> | Stateful workloads on AKS, backed by Azure Files NFS persistent storage. |
+| [aks-cluster-access-hardening](https://github.com/Melvin-Simplon/aks-cluster-access-hardening) | <img src="https://skillicons.dev/icons?i=azure,kubernetes" height="22" /> | Entra ID groups mapped to cluster roles, an API server locked to one IP range, and namespace quotas on a cluster that started out wide open. |
