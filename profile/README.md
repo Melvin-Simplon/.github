@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,terraform,kubernetes,docker,gitlab,githubactions,ansible,golang,java,python,bash,linux&perline=12" alt="Tech stack" />
+    <img src="https://skillicons.dev/icons?i=azure,terraform,kubernetes,docker,gitlab,githubactions,ansible,python,bash,linux&perline=10" alt="Tech stack" />
   </a>
 </p>
 
