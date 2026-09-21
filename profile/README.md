@@ -111,7 +111,7 @@ Knowing what the system is doing before a user tells you.
 | --- | --- | --- |
 | [azure-observability-terraform](https://github.com/Melvin-Simplon/azure-observability-terraform) | <img src="https://skillicons.dev/icons?i=azure,terraform,python" height="22" /> | Log Analytics, Application Insights, alerts, availability tests and workbooks, all shipped as Terraform modules. |
 | [azure-prometheus-grafana](https://github.com/Melvin-Simplon/azure-prometheus-grafana) | <img src="https://skillicons.dev/icons?i=azure,terraform,prometheus,grafana" height="22" /> | App Insights traces and managed Prometheus metrics unified in one Grafana dashboard, with email alerting. |
-| [datadog-observability-certifications](https://github.com/Melvin-Simplon/datadog-observability-certifications) | <img src="https://raw.githubusercontent.com/Melvin-Simplon/.github/main/profile/assets/datadog.svg" height="22" /> | Course completion certificates from the Datadog Learning Center, kept as proof of the observability training followed. |
+| [datadog-observability-certifications](https://github.com/Melvin-Simplon/datadog-observability-certifications) | <img src="https://raw.githubusercontent.com/Melvin-Simplon/.github/main/profile/assets/datadog.svg" height="32" /> | Course completion certificates from the Datadog Learning Center, kept as proof of the observability training followed. |
 <br/>
 
 ---
