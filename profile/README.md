@@ -81,7 +81,7 @@ Getting code from a commit to a running environment without a human holding a se
 | [aks-gitlab-ci-microservices](https://github.com/Melvin-Simplon/aks-gitlab-ci-microservices) | <img src="https://skillicons.dev/icons?i=azure,kubernetes,gitlab,golang" height="22" /> | Three Go services built into one distroless image, pushed to Azure Container Registry, one tag per commit. |
 | [aks-helm-gitlab-cd](https://github.com/Melvin-Simplon/aks-helm-gitlab-cd) | <img src="https://skillicons.dev/icons?i=azure,kubernetes,gitlab" height="22" /> <img src="https://cdn.simpleicons.org/helm/0F1689" height="22" /> | The deployment half: a Helm chart shipped to AKS by pipeline, load balancer restricted to a single CIDR. |
 | [azure-logging-api-gitlab-ci](https://github.com/Melvin-Simplon/azure-logging-api-gitlab-ci) | <img src="https://skillicons.dev/icons?i=azure,terraform,docker,gitlab" height="22" /> | A containerised logging API delivered fully as code, infrastructure and application in the same pipeline. |
-| [self-hosted-runner-on-azure](https://github.com/Melvin-Simplon/self-hosted-runner-on-azure) | <img src="https://skillicons.dev/icons?i=azure,terraform,ansible,githubactions,gitlab" height="22" /> | A self-hosted CI runner on an Azure VM, registered with both GitHub Actions and GitLab CI, then benchmarked against hosted runners. |
+| [self-hosted-runner-on-azure](https://github.com/Melvin-Simplon/self-hosted-runner-on-azure) | <img src="https://skillicons.dev/icons?i=azure,terraform,ansible,githubactions" height="22" /> | A self-hosted GitHub Actions runner on an Azure VM, provisioned with Terraform, configured with Ansible and benchmarked against GitHub-hosted runners. |
 <br/>
 
 ---
