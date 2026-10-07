@@ -24,7 +24,7 @@
 <br/>
 
 Trained in Toulouse, specialising in Azure. This organization gathers every project built along the way: four capstone projects and
-thirty-one hands-on labs, grouped below by the skill they demonstrate rather than
+thirty-two hands-on labs, grouped below by the skill they demonstrate rather than
 by the tool they happen to use.
 
 <br/>
@@ -114,6 +114,7 @@ Knowing what the system is doing before a user tells you.
 | [azure-prometheus-grafana](https://github.com/Melvin-Simplon/azure-prometheus-grafana) | <img src="https://skillicons.dev/icons?i=azure,terraform,prometheus,grafana" height="22" /> | App Insights traces and managed Prometheus metrics unified in one Grafana dashboard, with email alerting. |
 | [prometheus-node-exporter-grafana](https://github.com/Melvin-Simplon/prometheus-node-exporter-grafana) | <img src="https://skillicons.dev/icons?i=docker,prometheus,grafana" height="22" /> | Host metrics scraped in pull mode from node_exporter, with hardened containers and nothing exposed beyond loopback. |
 | [aks-prometheuse-grafana](https://github.com/Melvin-Simplon/aks-prometheuse-grafana) | <img src="https://skillicons.dev/icons?i=azure,kubernetes,prometheus,grafana" height="22" /> | The same stack on AKS from raw manifests, no Helm chart, no operator, kept in sync by ArgoCD instead of kubectl. |
+| [gitlab-runner-on-azure](https://github.com/Melvin-Simplon/gitlab-runner-on-azure) | <img src="https://skillicons.dev/icons?i=azure,terraform,kubernetes,gitlab,grafana" height="22" /> <img src="https://cdn.simpleicons.org/victoriametrics" height="22" /> | An AKS cluster hosting GitLab CI runners, watched end to end: VictoriaMetrics, VictoriaLogs, alerts, Velero backups and SLOs, all deployed by ArgoCD. |
 | [datadog-observability-certifications](https://github.com/Melvin-Simplon/datadog-observability-certifications) | <img src="https://raw.githubusercontent.com/Melvin-Simplon/.github/main/profile/assets/datadog.svg" height="26" /> | Course completion certificates from the Datadog Learning Center, kept as proof of the observability training followed. |
 <br/>
 
